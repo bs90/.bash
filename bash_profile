@@ -6,7 +6,7 @@ if [ -f ~/.bash/bash_aliases ]; then
 fi
 
 # Load in the git branch prompt script.
-source ~/.git-prompt.sh
+source ~/.bash/git-prompt.sh
 bash_prompt() {
   case $TERM in
     xterm*|rxvt*)
