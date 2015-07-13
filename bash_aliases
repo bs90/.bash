@@ -15,13 +15,3 @@ alias gpsy='git push yeuem1vannam'
 alias glo='git log --oneline -20 --color=auto'
 alias ls='ls -F'
 alias v='vim'
-
-
-# For WonderWall project
-alias cww='cd ~/workspace/WonderWall'
-alias gplwwd='git checkout develop; git pull team-lab develop'
-
-
-# For PM3 project
-alias cpm='cd ~/workspace/PM3'
-alias gplpmd='git checkout develop; git pull pm3 develop'
